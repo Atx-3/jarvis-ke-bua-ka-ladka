@@ -1,0 +1,2 @@
+cd "C:\Users\ayush\OneDrive\Desktop\python ka jaddu\zen-particles"
+npm run dev -- --host
